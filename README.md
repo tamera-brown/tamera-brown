@@ -26,7 +26,7 @@ I am a passionate Full Stack Engineer at Talent Path
  <img height="30" src="https://bilalbudhani.com/content/images/2017/11/heroku.png">
 
 </span>
-<br/>
+<hr/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tamera-brown&show_icons=true&theme=material-palenight)
 
