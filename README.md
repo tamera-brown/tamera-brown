@@ -1,6 +1,6 @@
 # Hello, my name is Tamera <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-_Click [here](https://github.com/tamera-brown/Tamera-Brown-Portfolio) to view full portfolio_
+_Click [here](tamera-brown.github.io/tamera-brown-portfolio/) to view full portfolio_
 
 I am a passionate Full Stack Engineer at Talent Path
 
