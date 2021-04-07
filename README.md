@@ -11,7 +11,7 @@ I am a passionate Full Stack Engineer at Talent Path
 <span>
  <img height="30" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png">
  <img height="30" src="https://i2.wp.com/www.thecuriousdev.org/wp-content/uploads/2017/12/spring-boot-logo.png?fit=600%2C315&ssl=1">
- <img height="30" src="http://maven.apache.org/images/maven-logo-white-on-black.png">
+ <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Maven_logo.svg/1280px-Maven_logo.svg.png">
  <img height="30" src ="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png">
  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png">
  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1280px-CSS3_and_HTML5_logos_and_wordmarks.svg.png">
