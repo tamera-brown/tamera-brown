@@ -1,6 +1,6 @@
 # Hello, my name is Tamera <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-_Click [here](https://tamera-brown.github.io/Tamera-Brown-Portfolio/) to view full portfolio_
+_Click [here](https://tamera-brown.github.io/Personal-Website/) to view website_
 
 
 
