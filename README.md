@@ -27,6 +27,3 @@ _Click [here](https://tamera-brown.github.io/Personal-Website/) to view website_
 
 </span>
 <hr/>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tamera-brown&show_icons=true&theme=material-palenight)
-
